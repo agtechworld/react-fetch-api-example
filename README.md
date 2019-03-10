@@ -1,3 +1,7 @@
+## Notes
+
+This Git Repo is to show how we can use fetch api to call the external API. API response can be multilevel. It uses LifeCycle Hooks to call the API. UI is not pretty but it demonostrates the concepts.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
